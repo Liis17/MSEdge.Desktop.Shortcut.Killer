@@ -1,0 +1,1 @@
+# MSEdge.Desktop.Shortcut.Killer
